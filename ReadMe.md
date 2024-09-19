@@ -1,5 +1,5 @@
 # 💫 About Me:
-✈️ Exchange student at Chung-Ang University | Seoul - South Korea<br>☁️ Cloud Developer (AWS)<br>🧑🏻‍🎓 Student in 4'th year at Epitech
+☁️ Cloud Developer (AWS)<br>🧑🏻‍🎓 Student in 5'th year at Epitech
 
 
 ## 🌐 Socials:
